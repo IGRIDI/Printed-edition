@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace lr3
-{ 
+{
     //класс для отловли исключительных ситуаций (наследник от Exception)
     class InvalidValueException : Exception
     {
@@ -31,10 +31,11 @@ namespace lr3
         }
 
     }
-        enum FieldType
+    enum FieldType
     {
         Name,
         Cost,
         Index
     }
 }
+

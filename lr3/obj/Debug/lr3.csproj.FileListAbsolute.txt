@@ -8,3 +8,11 @@ E:\Files\СЕВГУ\5 семестр\NET\ЛР3\lr3\lr3\obj\Debug\lr3.Properties.
 E:\Files\СЕВГУ\5 семестр\NET\ЛР3\lr3\lr3\obj\Debug\lr3.csproj.GenerateResource.Cache
 E:\Files\СЕВГУ\5 семестр\NET\ЛР3\lr3\lr3\obj\Debug\lr3.exe
 E:\Files\СЕВГУ\5 семестр\NET\ЛР3\lr3\lr3\obj\Debug\lr3.pdb
+E:\Files\СЕВГУ\5 семестр\NET\ЛР3\lr3\Printed-edition\lr3\bin\Debug\lr3.exe.config
+E:\Files\СЕВГУ\5 семестр\NET\ЛР3\lr3\Printed-edition\lr3\obj\Debug\lr3.exe
+E:\Files\СЕВГУ\5 семестр\NET\ЛР3\lr3\Printed-edition\lr3\obj\Debug\lr3.pdb
+E:\Files\СЕВГУ\5 семестр\NET\ЛР3\lr3\Printed-edition\lr3\obj\Debug\lr3.csprojResolveAssemblyReference.cache
+E:\Files\СЕВГУ\5 семестр\NET\ЛР3\lr3\Printed-edition\lr3\obj\Debug\lr3.Form1.resources
+E:\Files\СЕВГУ\5 семестр\NET\ЛР3\lr3\Printed-edition\lr3\obj\Debug\lr3.Form2.resources
+E:\Files\СЕВГУ\5 семестр\NET\ЛР3\lr3\Printed-edition\lr3\obj\Debug\lr3.Properties.Resources.resources
+E:\Files\СЕВГУ\5 семестр\NET\ЛР3\lr3\Printed-edition\lr3\obj\Debug\lr3.csproj.GenerateResource.Cache
